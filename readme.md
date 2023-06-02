@@ -1,4 +1,7 @@
 # Celestial map with D3.js
+# Original version by [ohfron](https://github.com/ofrohn)
+# Forked version by [ownego](https://github.com/ofrohn)
+## I just forked it to publish it on npm
 
 Interactive, adaptable celestial map done with the [D3.js](http://d3js.org/) visualization library. So, GeoJSON for sky stuff. Which surprisingly nobody has done yet, it seems.  
 
